@@ -1,0 +1,15 @@
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\bin\Debug\net6.0\Конструкция if else.exe
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\bin\Debug\net6.0\Конструкция if else.deps.json
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\bin\Debug\net6.0\Конструкция if else.runtimeconfig.json
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\bin\Debug\net6.0\Конструкция if else.dll
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\bin\Debug\net6.0\Конструкция if else.pdb
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.csproj.AssemblyReference.cache
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.AssemblyInfoInputs.cache
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.AssemblyInfo.cs
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.csproj.CoreCompileInputs.cache
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.dll
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\refint\Конструкция if else.dll
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.pdb
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\Конструкция if else.genruntimeconfig.cache
+C:\Users\tolas\Example-\Конструкция if else\Конструкция if else\obj\Debug\net6.0\ref\Конструкция if else.dll
