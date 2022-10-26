@@ -1,0 +1,15 @@
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.csproj.AssemblyReference.cache
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.AssemblyInfoInputs.cache
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.AssemblyInfo.cs
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.csproj.CoreCompileInputs.cache
+C:\Users\marka\Example-\Class and object\Class and object\bin\Debug\net6.0\Class and object.exe
+C:\Users\marka\Example-\Class and object\Class and object\bin\Debug\net6.0\Class and object.deps.json
+C:\Users\marka\Example-\Class and object\Class and object\bin\Debug\net6.0\Class and object.runtimeconfig.json
+C:\Users\marka\Example-\Class and object\Class and object\bin\Debug\net6.0\Class and object.dll
+C:\Users\marka\Example-\Class and object\Class and object\bin\Debug\net6.0\Class and object.pdb
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.dll
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\refint\Class and object.dll
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.pdb
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\Class and object.genruntimeconfig.cache
+C:\Users\marka\Example-\Class and object\Class and object\obj\Debug\net6.0\ref\Class and object.dll
