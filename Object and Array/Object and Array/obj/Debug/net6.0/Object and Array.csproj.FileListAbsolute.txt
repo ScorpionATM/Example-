@@ -1,0 +1,15 @@
+C:\Users\marka\Example-\Object and Array\Object and Array\bin\Debug\net6.0\Object and Array.exe
+C:\Users\marka\Example-\Object and Array\Object and Array\bin\Debug\net6.0\Object and Array.deps.json
+C:\Users\marka\Example-\Object and Array\Object and Array\bin\Debug\net6.0\Object and Array.runtimeconfig.json
+C:\Users\marka\Example-\Object and Array\Object and Array\bin\Debug\net6.0\Object and Array.dll
+C:\Users\marka\Example-\Object and Array\Object and Array\bin\Debug\net6.0\Object and Array.pdb
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.csproj.AssemblyReference.cache
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.AssemblyInfoInputs.cache
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.AssemblyInfo.cs
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.csproj.CoreCompileInputs.cache
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.dll
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\refint\Object and Array.dll
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.pdb
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\Object and Array.genruntimeconfig.cache
+C:\Users\marka\Example-\Object and Array\Object and Array\obj\Debug\net6.0\ref\Object and Array.dll
