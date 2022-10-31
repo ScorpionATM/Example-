@@ -130,7 +130,6 @@
 //Console.WriteLine(people.First?.Value);    
 //Console.WriteLine(people.Last?.Value);
 
-
 //LinkedList<string> people = new LinkedList<string>(new[] { "Tom", "Sam", "Bob" });
 
 //// от начала до конца списка
