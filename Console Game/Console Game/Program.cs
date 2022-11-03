@@ -206,3 +206,8 @@ public enum Direction
 	Left = 3,
 	Right = 4,
 }
+
+
+// https://tailwindcss.com/
+
+// https://learn.javascript.ru/
